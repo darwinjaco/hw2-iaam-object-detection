@@ -1,0 +1,89 @@
+{
+  "_comentario": "Coordenadas normalizadas [0,1] respecto al ancho y alto del frame. alert_seconds = null desactiva la alerta de permanencia para esa ROI.",
+  "rois": [
+    {
+      "id": "pasillo_norte",
+      "name": "Pasillo de circulacion norte",
+      "points_norm": [
+        [
+          0.28,
+          0.235
+        ],
+        [
+          0.98,
+          0.235
+        ],
+        [
+          0.98,
+          0.35
+        ],
+        [
+          0.28,
+          0.35
+        ]
+      ],
+      "alert_seconds": 12.0,
+      "color": [
+        0,
+        200,
+        255
+      ]
+    },
+    {
+      "id": "bahias_centro",
+      "name": "Bahias de parqueo centrales",
+      "points_norm": [
+        [
+          0.3,
+          0.36
+        ],
+        [
+          0.74,
+          0.36
+        ],
+        [
+          0.74,
+          0.87
+        ],
+        [
+          0.3,
+          0.87
+        ]
+      ],
+      "alert_seconds": null,
+      "color": [
+        255,
+        120,
+        0
+      ]
+    },
+    {
+      "id": "pasillo_sur",
+      "name": "Pasillo de circulacion sur",
+      "points_norm": [
+        [
+          0.28,
+          0.88
+        ],
+        [
+          0.78,
+          0.88
+        ],
+        [
+          0.78,
+          0.975
+        ],
+        [
+          0.28,
+          0.975
+        ]
+      ],
+      "alert_seconds": 12.0,
+      "color": [
+        80,
+        220,
+        80
+      ]
+    }
+  ]
+}

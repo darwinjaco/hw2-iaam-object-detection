@@ -1,0 +1,6 @@
+Aqui se escribe el video procesado al ejecutar:
+    python src/run_pipeline.py
+
+IMPORTANTE: los archivos roi_counting.mp4 y tracking_base.mp4 de tu entrega
+anterior fueron generados con la version previa del codigo y NO corresponden a
+esta implementacion. Deben regenerarse antes de entregar.

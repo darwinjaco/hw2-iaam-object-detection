@@ -1,0 +1,4 @@
+﻿roi_id,roi_nombre,objetos_unicos,visitas_totales,tiempo_promedio_por_objeto_s,tiempo_promedio_por_visita_s,tiempo_mediana_s,tiempo_maximo_s,ocupacion_maxima_simultanea,umbral_alerta_s,alertas_emitidas
+pasillo_norte,Pasillo de circulacion norte,27,30,1.094,0.984,0.801,3.47,3,12.0,0
+bahias_centro,Bahias de parqueo centrales,60,135,2.354,1.046,0.968,25.359,8,,0
+pasillo_sur,Pasillo de circulacion sur,3,3,0.979,0.979,0.4,2.202,1,12.0,0

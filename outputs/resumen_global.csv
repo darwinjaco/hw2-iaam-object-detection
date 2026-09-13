@@ -1,0 +1,13 @@
+﻿metrica,valor
+total_objetos_detectados,283
+objetos_que_entraron_a_alguna_roi,80
+visitas_totales_todas_las_rois,168
+tiempo_promedio_permanencia_global_s,1.93
+alertas_totales,0
+numero_de_rois,3
+fps_video,29.97
+objetos_clase_car,283
+frames_procesados,864
+resolucion,1920x1080
+fps_procesamiento,2.39
+tiempo_total_procesamiento_s,361.09
